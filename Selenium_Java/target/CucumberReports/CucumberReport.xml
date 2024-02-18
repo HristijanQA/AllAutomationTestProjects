@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.209" tests="2" skipped="0" failures="2" errors="0">
+<testcase classname="Feature to test login functionality" name="Create account - Example #1.1" time="0.072">
+<failure type="java.lang.NullPointerException" message="Cannot invoke &quot;org.openqa.selenium.WebDriver.getCurrentUrl()&quot; because &quot;this.driver&quot; is null">
+<![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.getCurrentUrl()" because "this.driver" is null
+	at StepDefinitions.LoginSteps.user_is_on_the_home_page(LoginSteps.java:23)
+	at ✽.User is on the home page(file:///D:/Eclipse/eclipse-workspace/EdukativenCucamber/src/test/resources/Features/LogIn.feature:6)
+]]>
+</failure>
+<system-out><![CDATA[
+Given User is on the home page..............................................failed
+And click on the Log in button..............................................skipped
+When enters TesterProba and Testing21@test.com in the New User Signup.......skipped
+And clicks on Sigup button..................................................skipped
+When user is on account information.........................................skipped
+And populates Male..........................................................skipped
+And populatesP Testing1.....................................................skipped
+And populatesD 5............................................................skipped
+And populatesM A............................................................skipped
+And populatesY 1995.........................................................skipped
+And populatesF Testing12....................................................skipped
+And populatesL Tester12.....................................................skipped
+And populatesA Domasna......................................................skipped
+And populatesC Canada.......................................................skipped
+And populatesS Kinaa........................................................skipped
+And populatesCi Bito........................................................skipped
+And populatesZ 7000000......................................................skipped
+And populatesMob 080416.....................................................skipped
+And click on create account.................................................skipped
+Then user account should be created.........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Feature to test login functionality" name="Create Order Test - Example #1.1" time="0.002">
+<failure type="java.lang.NullPointerException" message="Cannot invoke &quot;org.openqa.selenium.WebDriver.getCurrentUrl()&quot; because &quot;this.driver&quot; is null">
+<![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.getCurrentUrl()" because "this.driver" is null
+	at StepDefinitions.CreateOrder.user_is_on_the_homepage(CreateOrder.java:31)
+	at ✽.User is on the homepage(file:///D:/Eclipse/eclipse-workspace/EdukativenCucamber/src/test/resources/Features/LogIn.feature:33)
+]]>
+</failure>
+<system-out><![CDATA[
+Given User is on the homepage...............................................failed
+Then the user clicks on the LogIn option....................................skipped
+And enters Testing17@test.com and Testing1 in the LogIn section.............skipped
+Then the user should be login...............................................skipped
+And add to cart Blue Top and Sleeveless Dress and Summer White Top..........skipped
+When items in card Blue Top and Sleeveless Dress and Summer White Top.......skipped
+Then user continues to check out............................................skipped
+And addess information......................................................skipped
+And user completes the order................................................skipped
+And user enters 13413452 Testing123 123 12 2025.............................skipped
+Then order is completed.....................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
