@@ -1,79 +1,21 @@
-Easy Installation Guide for Java and Eclipse on Windows
+Welcome to My Portfolio!
+Greetings and welcome to my professional portfolio hosted on Git repository. I'm delighted to have your attention.
 
-Installing Java
+Allow me to introduce myself. I am a seasoned QA consultant with over three years of extensive experience in the realm of software quality assurance. My expertise lies in orchestrating comprehensive testing strategies to ensure the reliability, functionality, and performance of software products.
 
-Download Java Development Kit (JDK):
+Within this repository, you will find a collection of notable projects that underscore my proficiency and dedication to the field. These projects include:
 
-Visit this link to download Java.
-https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
+Cypress
+Selenium
+Playwright-JS
+Each project is meticulously documented, providing detailed instructions on installing the respective tools. Whether you're a seasoned QA professional or a recruitment specialist seeking top talent, these projects serve as a testament to my technical skills and expertise.
 
-Choose the appropriate version for your computer (Windows or Mac).
+As a proactive and collaborative individual, I am always open to exploring new opportunities and partnerships. Should you wish to discuss potential collaborations, have inquiries, or simply want to learn more about my work, feel free to reach out.
 
-For Windows, download the .msi installer.
+Thank you for taking the time to explore my portfolio. I trust you'll find it informative and indicative of my dedication to excellence in software quality assurance.
 
-For Mac, download the .pkg package.
+Best regards,
 
-Run the Installer:
+Hristijan,
 
-Open the downloaded file and run the installer.
-
-Accept all default choices during installation.
-
-Cleanup:
-Once installed, you can delete the downloaded installer file (.msi or .pkg).
-
-Downloading Eclipse
-
-Download Eclipse:
-
-Go to this link.
-https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-java-developers
-
-Click the "Download ..." button.
-
-Choose Your Version:
-
-Select the version that matches your computer.
-
-Run the Installer:
-
-Run the downloaded installer file.
-
-For Mac, double-click the Eclipse installer.
-
-Be patient as this might take some time.
-
-Installation:
-
-Select "Eclipse IDE for Java Developers".
-
-Ensure it is using the Corretto JDK.
-
-Click [INSTALL].
-
-Accept any warnings that appear.
-
-Running Eclipse for the First Time
-
-Choose Workspace:
-When you open Eclipse for the first time, choose a folder for your "workspace" where your files will be stored.
-
-You can use the default location or save it on a USB flash drive for portability.
-
-Welcome Page:
-
-You will see a Welcome page. Simply click on the X to close it.
-Verification:
-
-Follow the instructions in your course materials to write and run your first program.
-Ensure everything is working correctly.
-
-Additional Steps for Mac Users
-
-Move Eclipse to Applications:
-
-After installation, move Eclipse to the Applications folder.
-
-Locate the Eclipse.app file in the installation folder noted during installation.
-
-Open Finder and navigate to Go > Computer > Macintosh HD > Users > ..., then drag and drop Eclipse.app into the Applications folder.
+QA Consultant
