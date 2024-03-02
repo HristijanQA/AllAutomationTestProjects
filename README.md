@@ -1,0 +1,79 @@
+Easy Installation Guide for Java and Eclipse on Windows
+
+Installing Java
+
+Download Java Development Kit (JDK):
+
+Visit this link to download Java.
+https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
+
+Choose the appropriate version for your computer (Windows or Mac).
+
+For Windows, download the .msi installer.
+
+For Mac, download the .pkg package.
+
+Run the Installer:
+
+Open the downloaded file and run the installer.
+
+Accept all default choices during installation.
+
+Cleanup:
+Once installed, you can delete the downloaded installer file (.msi or .pkg).
+
+Downloading Eclipse
+
+Download Eclipse:
+
+Go to this link.
+https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-java-developers
+
+Click the "Download ..." button.
+
+Choose Your Version:
+
+Select the version that matches your computer.
+
+Run the Installer:
+
+Run the downloaded installer file.
+
+For Mac, double-click the Eclipse installer.
+
+Be patient as this might take some time.
+
+Installation:
+
+Select "Eclipse IDE for Java Developers".
+
+Ensure it is using the Corretto JDK.
+
+Click [INSTALL].
+
+Accept any warnings that appear.
+
+Running Eclipse for the First Time
+
+Choose Workspace:
+When you open Eclipse for the first time, choose a folder for your "workspace" where your files will be stored.
+
+You can use the default location or save it on a USB flash drive for portability.
+
+Welcome Page:
+
+You will see a Welcome page. Simply click on the X to close it.
+Verification:
+
+Follow the instructions in your course materials to write and run your first program.
+Ensure everything is working correctly.
+
+Additional Steps for Mac Users
+
+Move Eclipse to Applications:
+
+After installation, move Eclipse to the Applications folder.
+
+Locate the Eclipse.app file in the installation folder noted during installation.
+
+Open Finder and navigate to Go > Computer > Macintosh HD > Users > ..., then drag and drop Eclipse.app into the Applications folder.
