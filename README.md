@@ -24,7 +24,7 @@ Within this repository, you will find a collection of notable projects that unde
 
 - **Postman**
   
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg](https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png)" alt="Postman Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman Logo" width="200"/>
   
 
 Each project is meticulously documented, providing detailed instructions on installing the respective tools. Whether you're a seasoned QA professional or a recruitment specialist seeking top talent, these projects serve as a testament to my technical skills and expertise.
