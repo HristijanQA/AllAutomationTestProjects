@@ -13,6 +13,7 @@ Within this repository, you will find a collection of notable projects that unde
 - **Cypress**
   
   <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" alt="Cypress Logo" width="200"/>
+  Certificate - https://www.udemy.com/certificate/UC-349dfb1b-ea39-4964-9c3a-215e515f9c1a/
 
 - **Selenium**
   
@@ -25,8 +26,13 @@ Within this repository, you will find a collection of notable projects that unde
 - **Postman**
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman Logo" width="200"/>
-  
 
+  - **SQL**
+
+  <img src="https://banner2.cleanpng.com/20180526/oqt/avq6683ud.webp" alt="Postman Logo" width="200"/>
+  Certificate - https://www.udemy.com/certificate/UC-59d7b06a-5123-4224-8ce2-f8ce50dd86e3/
+
+  
 Each project is meticulously documented, providing detailed instructions on installing the respective tools. Whether you're a seasoned QA professional or a recruitment specialist seeking top talent, these projects serve as a testament to my technical skills and expertise.
 
 ## Collaboration
