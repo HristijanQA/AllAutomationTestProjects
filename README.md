@@ -17,10 +17,10 @@ Within this repository, you will find a collection of notable projects that unde
   Certificate - https://www.udemy.com/certificate/UC-349dfb1b-ea39-4964-9c3a-215e515f9c1a/
 
 - **Selenium**
-
- Certificate - https://www.udemy.com/certificate/UC-b671348c-9b07-4b42-a042-575e71f73800/
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" alt="Selenium Logo" width="200"/>
+
+  Certificate - https://www.udemy.com/certificate/UC-b671348c-9b07-4b42-a042-575e71f73800/
 
 - **Playwright-JS**
   
