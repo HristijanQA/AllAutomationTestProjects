@@ -28,7 +28,7 @@ Within this repository, you will find a collection of notable projects that unde
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman Logo" width="200"/>
 
-  - **SQL**
+- **SQL**
 
   <img src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" alt="Postman Logo" width="200"/>
   
