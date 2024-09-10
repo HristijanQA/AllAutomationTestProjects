@@ -13,6 +13,7 @@ Within this repository, you will find a collection of notable projects that unde
 - **Cypress**
   
   <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" alt="Cypress Logo" width="200"/>
+  
   Certificate - https://www.udemy.com/certificate/UC-349dfb1b-ea39-4964-9c3a-215e515f9c1a/
 
 - **Selenium**
