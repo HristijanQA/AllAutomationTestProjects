@@ -30,7 +30,8 @@ Within this repository, you will find a collection of notable projects that unde
 
   - **SQL**
 
-  <img src="https://banner2.cleanpng.com/20180526/oqt/avq6683ud.webp" alt="Postman Logo" width="200"/>
+  <img src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" alt="Postman Logo" width="200"/>
+  
   Certificate - https://www.udemy.com/certificate/UC-59d7b06a-5123-4224-8ce2-f8ce50dd86e3/
 
   
