@@ -39,7 +39,26 @@ Within this repository, you will find a collection of notable projects that unde
   
 Each project is meticulously documented, providing detailed instructions on installing the respective tools. Whether you're a seasoned QA professional or a recruitment specialist seeking top talent, these projects serve as a testament to my technical skills and expertise.
 
+
+## Certificates
+Here are some of my certifications and courses that I have acquired, which are not directly connected to automation tools but will certainly aid me in my future growth as a QA consultant:
+
 <img src = "https://github.com/user-attachments/assets/6ed3f236-39bc-426f-8313-f9845e660664" alt = "[certification-Technical-Certification-for-Partners-HristijanIW.pdf]" width="200" />
+
+<br>
+
+<img src = "https://github.com/user-attachments/assets/b5d9d162-f2e4-46c5-ab4d-d1bc885af1e3" alt = "[certification-Xray-Partner-Certification-hristijan ivanovski]" width="200" />
+
+<br>
+
+<img src = "https://github.com/user-attachments/assets/4f0abc9c-d146-4082-9c9a-5ae75b55acc9" alt = "[iwec_certificate_ANG_Христијан Ивановски]" width="200" />
+
+<br>
+
+<img src = "https://github.com/user-attachments/assets/128b9b79-e9e0-4a32-bcfe-71a6ad72004d" alt = "[iwec_certificate_Христијан Ивановски]" width="200" />
+
+
+These certifications show my commitment to learning and improving my skill set across various aspects of software quality assurance, ensuring I stay ahead in this ever-evolving industry.
 
 ## Collaboration
 
