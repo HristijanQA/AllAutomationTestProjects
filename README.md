@@ -39,6 +39,8 @@ Within this repository, you will find a collection of notable projects that unde
   
 Each project is meticulously documented, providing detailed instructions on installing the respective tools. Whether you're a seasoned QA professional or a recruitment specialist seeking top talent, these projects serve as a testament to my technical skills and expertise.
 
+[certification-Technical-Certification-for-Partners-HristijanIW.pdf](https://github.com/user-attachments/files/16959975/certification-Technical-Certification-for-Partners-HristijanIW.pdf)
+
 ## Collaboration
 
 As a proactive and collaborative individual, I am always open to exploring new opportunities and partnerships. Should you wish to discuss potential collaborations, have inquiries, or simply want to learn more about my work, feel free to reach out.
