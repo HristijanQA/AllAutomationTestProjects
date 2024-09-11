@@ -39,7 +39,7 @@ Within this repository, you will find a collection of notable projects that unde
   
 Each project is meticulously documented, providing detailed instructions on installing the respective tools. Whether you're a seasoned QA professional or a recruitment specialist seeking top talent, these projects serve as a testament to my technical skills and expertise.
 
-[certification-Technical-Certification-for-Partners-HristijanIW.pdf](https://github.com/user-attachments/files/16959975/certification-Technical-Certification-for-Partners-HristijanIW.pdf)
+< img [certification-Technical-Certification-for-Partners-HristijanIW.pdf](https://github.com/user-attachments/files/16959975/certification-Technical-Certification-for-Partners-HristijanIW.pdf) />
 
 ## Collaboration
 
